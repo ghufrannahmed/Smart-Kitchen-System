@@ -1,2 +1,1 @@
-# Smart-Kitchen-System
 The Smart Kitchen System is an Arduino-based safety solution that monitors LPG cylinder levels, detects gas leaks, and identifies fire hazards in the kitchen. It uses a load cell to measure LPG weight, an MQ135 gas sensor for leak detection, and a flame sensor for fire detection. The system triggers safety measures such as a buzzer, fan, and motor to alert users and ventilate the area when a hazard is detected. Real-time updates are displayed on a 16x2 LCD, ensuring constant monitoring of the environment for a safer cooking experience.
